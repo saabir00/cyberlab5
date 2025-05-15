@@ -4,7 +4,7 @@
 ![Şəkil 1](1.png)
 ![Şəkil 2](2.png)
 ![Şəkil 3](3.png)
-![Meta 1](metal.png)
+![Meta 1](meta1.png)
 ![Meta 2](meta2.png)
 ![Meta 3](meta3.png)
 ## exp
